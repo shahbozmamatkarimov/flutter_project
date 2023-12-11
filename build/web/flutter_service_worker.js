@@ -3,7 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "d873552aeb7e00747982c2236861a23a",
+const RESOURCES = {".vercel/project.json": "1463ccfdac12d75ad5991dca881f7d2f",
+".vercel/README.txt": "2b13c79d37d6ed82a3255b83b6815034",
+"assets/AssetManifest.bin": "d873552aeb7e00747982c2236861a23a",
 "assets/AssetManifest.bin.json": "0d73449251541fd73a555249fb8eb8f6",
 "assets/AssetManifest.json": "d9f23488e7bfee73a415687b92a90453",
 "assets/assets/icons/apparel.svg": "f390b18bef902c5cac1459f89b00f42d",
@@ -46,9 +48,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "d873552aeb7e00747982c2236861a23a
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "24d951819cfa13cede8a893feb922975",
-"/": "24d951819cfa13cede8a893feb922975",
-"main.dart.js": "ca40033ac17ffd041c8ac8f9f9c7b847",
+"index.html": "a1ab1a2532b1007947ba408008c94dcd",
+"/": "a1ab1a2532b1007947ba408008c94dcd",
+"main.dart.js": "eea4823a67e9f6c95dbc25f5795f3662",
 "manifest.json": "4f4c9e90ede1b12ba0b9151337f5db88",
 "version.json": "8d61dd5dc4e90cd575cad5306c826123"};
 // The application shell files that are downloaded before a service worker can

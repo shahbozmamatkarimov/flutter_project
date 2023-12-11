@@ -294,7 +294,7 @@ class HomeScreen extends StatelessWidget {
                               0 * fem, 0 * fem, 10 * fem, 0 * fem),
                           padding: EdgeInsets.fromLTRB(
                               22 * fem, 20 * fem, 21.33 * fem, 19 * fem),
-                          width: 108.33 * fem,
+                          width: 110 * fem,
                           height: double.infinity,
                           decoration: BoxDecoration(
                             color: const Color(0xfff6f6f6),
